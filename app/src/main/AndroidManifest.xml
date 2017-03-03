@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mynamekarn.neaw03">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".MyDesc"></activity>
+        <activity android:name=".Dia"
+            android:theme="@style/AppTheme.CoustomThema"></activity>
+        <activity android:name=".Dia1"
+            android:theme="@style/AppTheme.CoustomThema"></activity>
+        <activity android:name=".Dia2"
+            android:theme="@style/AppTheme.CoustomThema"></activity>
+        <activity android:name=".Dia3"
+            android:theme="@style/AppTheme.CoustomThema"></activity>
+        <activity android:name=".Dia4"
+            android:theme="@style/AppTheme.CoustomThema"></activity>
+        <activity android:name=".Dia5"
+            android:theme="@style/AppTheme.CoustomThema"></activity>
+        <activity android:name=".Dia6"
+            android:theme="@style/AppTheme.CoustomThema"></activity>
+        <activity android:name=".Dia7"
+            android:theme="@style/AppTheme.CoustomThema"></activity>
+        <activity android:name=".Dia8"
+            android:theme="@style/AppTheme.CoustomThema"></activity>
+        <activity android:name=".Dia9"
+            android:theme="@style/AppTheme.CoustomThema"></activity>
+        <activity android:name=".Dia10"
+            android:theme="@style/AppTheme.CoustomThema"></activity>
+        <activity android:name=".Dia11"
+            android:theme="@style/AppTheme.CoustomThema"></activity>
+        <activity android:name=".Dia12"
+            android:theme="@style/AppTheme.CoustomThema"></activity>
+        <activity android:name=".Dia13"
+            android:theme="@style/AppTheme.CoustomThema"></activity>
+        <activity android:name=".res0"></activity>
+        <activity android:name=".res1"></activity>
+        <activity android:name=".res2"></activity>
+        <activity android:name=".res3"></activity>
+        <activity android:name=".res4"></activity>
+        <activity android:name=".res5"></activity>
+        <activity android:name=".res6"></activity>
+        <activity android:name=".res7"></activity>
+        <activity android:name=".res8"></activity>
+        <activity android:name=".res9"></activity>
+        <activity android:name=".res10"></activity>
+        <activity android:name=".res11"></activity>
+        <activity android:name=".res12"></activity>
+        <activity android:name=".res13"></activity>
+        <activity android:name=".res14"></activity>
+        <activity android:name=".res15"></activity>
+        <activity android:name=".res16"></activity>
+        <activity android:name=".res17"></activity>
+        <activity android:name=".res18"></activity>
+        <activity android:name=".res19"></activity>
+        <activity android:name=".res20"></activity>
+        <activity android:name=".res21"></activity>
+        <activity android:name=".res22"></activity>
+        <activity android:name=".res23"></activity>
+    </application>
+
+</manifest>
